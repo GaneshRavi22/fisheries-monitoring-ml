@@ -1,4 +1,10 @@
+Extract the train_and_test.zip file. It contains two directories:
+1. train - contains training data
+2. test - contains test data
+
+
 TRAINING
+----------
 ALB - 3095
 BET - 360
 DOL - 211
@@ -7,10 +13,13 @@ NoF - 837
 OTH - 539
 SHA - 317
 YFT - 1322
+-------------
 Total = 6802
+-------------
 
 
 TEST
+-----
 ALB - 343
 BET - 40
 DOL - 23
@@ -19,4 +28,6 @@ NoF - 93
 OTH - 59
 SHA - 35
 YFT - 146
+------------
 Total = 752
+------------
